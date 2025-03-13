@@ -1,6 +1,5 @@
 #  성장하는 백앤드 개발자 박준규 입니다! </div>
 
-
 <div align="center">
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<Joon>&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -8,7 +7,8 @@
 </div>
 
 ## 🌟 About Me 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 2023년 8월 백엔드 개발자로 첫 발을 내딛은 이래, <br>
   끊임없는 성장과 전문성 강화를 위해 GitHub에 TIL(Today I Learned)을 기록하며 학습하고 있습니다.
@@ -37,6 +37,9 @@
   ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+  
+
   
 </div>
 
@@ -84,6 +87,7 @@
 -->
 
 ## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Recent blog post 1](https://velog.io/@bluegrate/post1)
 - [Recent blog post 2](https://velog.io/@bluegrate/post2)
