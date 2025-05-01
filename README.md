@@ -86,13 +86,6 @@
 </table>
 -->
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Recent blog post 1](https://velog.io/@bluegrate/post1)
-- [Recent blog post 2](https://velog.io/@bluegrate/post2)
-- [Recent blog post 3](https://velog.io/@bluegrate/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Get in Touch
 
