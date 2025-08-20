@@ -91,7 +91,6 @@
 
 <div align="center">
   
-  [![Tech Blog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@bluegrate/posts)](https://velog.io/@bluegrate/posts)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
   [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:qkrwnsrb224@gmail.com)](mailto:qkrwnsrb224@gmail.com)
   
