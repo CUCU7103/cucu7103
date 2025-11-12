@@ -1,104 +1,85 @@
-#  성장하는 백앤드 개발자 박준규 입니다! </div>
+##  🚀 안녕하세요 안정성과 효율성을 추구하는 백앤드 개발자 박준규입니다.
 
 <div align="center">
-  
 
-  
 </div>
 
-## 🌟 About Me 
+## 👨‍💻 About Me
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+2023년 8월부터 백엔드 개발자로 경력을 시작하여, 지속적인 학습과 실무 경험을 통해 전문성을 강화하고 있습니다.
 
-- 2023년 8월 백엔드 개발자로 첫 발을 내딛은 이래, <br>
-  끊임없는 성장과 전문성 강화를 위해 GitHub에 TIL(Today I Learned)을 기록하며 학습하고 있습니다.
-- 일과 병행하여 학점은행제를 진행하여 학사학위를 취득하였습니다.
-- 이러한 열정과 노력으로 실력 있는 개발자로 거듭나기 위해 항상 최선을 다하고 있습니다.
+- **경력**: 동양엔아이엔씨 WMS 시스템 백엔드 개발 담당 (1년 8개월)
+- **사이드 프로젝트**: 빵그리 서비스 백엔드 개발
+- **학습 방식**: 인프런 및 오프라인 강의 수강 및 내용 notion에 정리
+- **교육 과정** : 항해 99, F-lab
+- **학력**: 학점은행제를 통한 학사학위 취득 (업무 병행)
 
-<br clear="right"/>
+---
 
-## 💻 Technical Skills
+## 💼 Experience
+
+  ### 1. 동양엔아이엔씨
+  **백엔드 개발자** | WMS 시스템 개발
+  - 물류 관리 시스템(WMS) 백엔드 API 설계 및 구현
+  - 데이터베이스 최적화 및 쿼리 성능 개선
+  - Spring Boot 기반 RESTful API 개발
+
+  ### 2. 빵그리 (사이드 프로젝트)
+  **백엔드 개발 담당**
+  - 서비스 백엔드 아키텍처 설계 및 구현
+  - API 서버 개발 및 데이터베이스 설계
+
+---
+
+## 🛠 Technical Skills
+
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0088CC?style=for-the-badge&logo=java&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ### Backend
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-%23007396.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-  ![MyBatis](https://img.shields.io/badge/MyBatis-%23FF0000.svg?style=for-the-badge&logo=apache&logoColor=white)
-  ![QueryDSL](https://img.shields.io/badge/QueryDSL-%230769AD.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-  ### Database
-  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  
-  ### DevOps
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cucu7103&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cucu7103&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
 </div>
 
+## 📚 Learning
 
-<!--
-
-<div align="center">
-  ## 📊 GitHub Stats
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cucu7103&show_icons=true&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cucu7103&layout=compact&theme=radical)
-  
-</div>
-
--->
-
-
-<!--
-
-## 🔥 Recent Projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MY TIL</h3>
-      <div align="center">
-        <a href="https://github.com/CUCU7103/TIL" target="_blank">
-          <img src="https://dummyimage.com/300x200/4287f5/ffffff&text=Project+1" width="400" alt="Project 1">
-        </a>
-      <p><strong>Tech Stack:</strong> Java, Spring Boot, MySQL</p>
-        <p>A brief description of your first project and what you learned from it.</p> 
-      </div>
-    </td>
-   <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/cuc/project2" target="_blank">
-          <img src="https://dummyimage.com/300x200/f54242/ffffff&text=Project+2" width="400" alt="Project 2">
-        </a>
-        <p><strong>Tech Stack:</strong> Spring Boot, JPA, Docker</p>
-        <p>A brief description of your second project and what you learned from it.</p>
-      </div>
-    </td>
-  </tr>
-</table>
--->
-
-
-## 📫 Get in Touch
-
-<div align="center">
-  
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/feed/)](https://www.linkedin.com/feed/)
-  [![Email Badge](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:qkrwnsrb224@gmail.com)](mailto:qkrwnsrb224@gmail.com)
-  
-</div>
+- 꾸준한 성장을 위해 학습한 내용을 notion을 통해서 기록하고 있습니다.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cucu7103&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-  <p>Thank you for visiting my profile! 😊</p>
+
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/qkrwnsrb224@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qkrwnsrb224@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=cucu7103&color=0088cc&style=flat-square&label=Profile+Views)
+
+**방문해 주셔서 감사합니다!**
+
 </div>
